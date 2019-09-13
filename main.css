@@ -8,6 +8,7 @@
     float: right;
     width: 100%;
     clear:both;
+    
 }
 nav li{
     list-style: none;
@@ -33,21 +34,58 @@ nav a:hover{
 
 }
 body{
-    background-image: url("https://i.pinimg.com/originals/fa/e1/5b/fae15b8b02bfac4a77baf9b921b79768.jpg");
+
     width: 100%;
     background-repeat: no-repeat;
-    background-size: cover;
+    
 }
 .banner{
  font-size: 40px;
  color: white;
  text-align: center;
  /* margin-top: 20%; */
+ background-image: url("https://i.pinimg.com/originals/fa/e1/5b/fae15b8b02bfac4a77baf9b921b79768.jpg");
+ background-size: cover;
+ background-repeat: no-repeat;
 }
-.banner h2,p{
-    padding-top: 150px;
+.banner h2, h3, p{
+    padding-top: 100px;
 }
 .container{
     clear: both;
     display: flex;
 }
+.banner h3{
+    font-size: 80px;
+}
+#aboutme h3, p{
+    text-align: center;
+    font-size: 30px;
+    font-weight: 80;
+    
+}
+#aboutme p{
+    padding-top: 80px;
+}
+#aboutme img{
+    padding: 10px 15px;
+}
+#aboutme{
+   display: flex;
+}
+.column {
+    float: left;
+    width: 33.33%;
+    color: black;
+  }
+  
+  /* Clear floats after the columns */
+  .row:after {
+    content: "";
+    display: table;
+    clear: both;
+  }
+  i{
+      padding:20px;
+      display: block;
+  }
