@@ -83,4 +83,8 @@ body{
 .aboutme img{
     padding:10px 15px;
     float:right;
+}.music img{
+    padding:10px 15px;
+    float:left;
 }
+
