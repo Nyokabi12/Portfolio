@@ -73,19 +73,11 @@ body{
 #aboutme{
    display: flex;
 }
-.column {
-    float: left;
-    width: 33.33%;
-    color: black;
-  }
-  
-  /* Clear floats after the columns */
-  .row:after {
-    content: "";
-    display: table;
-    clear: both;
-  }
-  i{
-      padding:20px;
-      display: block;
-  }
+.aboutme h2{
+    text-align: center;
+    text-decoration-line: underline;
+}
+.aboutme img{
+    padding:10px 15px;
+    float:right;
+}
