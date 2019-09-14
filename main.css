@@ -44,7 +44,6 @@ body{
  font-size: 40px;
  color: white;
  text-align: center;
- /* margin-top: 20%; */
  background-image: url("https://i.pinimg.com/originals/fa/e1/5b/fae15b8b02bfac4a77baf9b921b79768.jpg");
  background-size: cover;
  background-repeat: no-repeat;
@@ -100,7 +99,7 @@ table, th, td {
       
 }
 tr:hover {
-     background-color: #f5f5f5;
+     background-color: grey;
 }
   table {
     border-spacing: 5px;
@@ -128,7 +127,7 @@ th {
   
   #lab_social_icon_footer .social {
     -webkit-transform: scale(0.8);
-    /* Browser Variations: */
+    
     
     -moz-transform: scale(0.8);
     -o-transform: scale(0.8);
@@ -136,9 +135,7 @@ th {
     -moz-transition-duration: 0.5s;
     -o-transition-duration: 0.5s;
   }
-  /*
-      Multicoloured Hover Variations
-  */
+ 
   
   #lab_social_icon_footer #social-fb:hover {
     color: #3B5998;
