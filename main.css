@@ -33,6 +33,7 @@ nav a:hover{
     transition: 0.55;
 
 }
+
 body{
 
     width: 100%;
@@ -86,5 +87,9 @@ body{
 }.music img{
     padding:10px 15px;
     float:left;
+}
+.hiking img{
+    padding:10px 15px;
+    float:right;
 }
 
