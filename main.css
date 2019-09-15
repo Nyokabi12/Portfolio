@@ -118,7 +118,7 @@ th {
   
   #lab_social_icon_footer a {
     color: #333;
-    float: left;
+    flex-direction: inherit;
   }
   
   #lab_social_icon_footer .social:hover {
@@ -154,9 +154,7 @@ th {
   #lab_social_icon_footer #social-em:hover {
     color: #f39c12;
   }
-  section{
-    f
-  }
+ 
 
   
 
