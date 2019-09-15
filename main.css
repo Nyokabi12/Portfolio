@@ -157,6 +157,9 @@ th {
   #lab_social_icon_footer #social-em:hover {
     color: #f39c12;
   }
-
+footer p{
+  float: left;
+  padding: 50px 0px;
+}
   
 
