@@ -112,13 +112,16 @@ th {
 }
 #lab_social_icon_footer {
     padding: 40px 0;
-    background-color: #dedede;
-    float:left;
+    background-color:soli white;
   }
   
   #lab_social_icon_footer a {
     color: #333;
-    flex-direction: inherit;
+    float: right;
+    width: 100px;
+    text-decoration: none;
+    font-family: arial;
+    text-align: center;text-transform: uppercase;
   }
   
   #lab_social_icon_footer .social:hover {
@@ -154,7 +157,6 @@ th {
   #lab_social_icon_footer #social-em:hover {
     color: #f39c12;
   }
- 
 
   
 
