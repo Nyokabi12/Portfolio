@@ -117,6 +117,7 @@ th {
   
   #lab_social_icon_footer a {
     color: #333;
+    float: right;
   }
   
   #lab_social_icon_footer .social:hover {
