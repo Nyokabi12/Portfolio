@@ -113,11 +113,12 @@ th {
 #lab_social_icon_footer {
     padding: 40px 0;
     background-color: #dedede;
+    float:left;
   }
   
   #lab_social_icon_footer a {
     color: #333;
-    float: right;
+    float: left;
   }
   
   #lab_social_icon_footer .social:hover {
@@ -152,6 +153,9 @@ th {
   
   #lab_social_icon_footer #social-em:hover {
     color: #f39c12;
+  }
+  section{
+    f
   }
 
   
